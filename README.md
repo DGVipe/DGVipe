@@ -1,3 +1,5 @@
+<p align="center"><img height="380"src="https://github.com/DGVipe/DGVipe/blob/main/welcome.gif"></p>
+
 ## Hey there! 👋
 
 I'm a software engineer and developer with a passion for building accessible, reliable and innovate solutions.
