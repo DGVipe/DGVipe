@@ -46,6 +46,7 @@ I'm a software engineer and developer with a passion for building accessible, re
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-000000)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 
 
 ### Frontend
