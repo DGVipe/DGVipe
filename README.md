@@ -67,4 +67,6 @@ I'm a software engineer and developer with a passion for building accessible, re
 
 
 ## Contact
+- Portfolio: https://diegoalveal.com
 - GitHub: https://github.com/DGVipe
+- Email: dgvipedev@gmail.com
